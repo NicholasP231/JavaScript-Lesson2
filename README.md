@@ -1,2 +1,1 @@
-var myName;
-var yourName;
+Lesson 2
