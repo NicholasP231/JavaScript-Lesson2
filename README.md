@@ -1,1 +1,2 @@
-# JavaScript-Lesson2
+var myName;
+var yourName;
